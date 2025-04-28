@@ -56,3 +56,7 @@ Auteur Collectif
 10/
 
 # IV/ Visual about my topic
+
+![img](LR-UNGRADED-ARK.jpg)
+![img](imagesn.jpeg.jpg)
+![img](images.jpg)
