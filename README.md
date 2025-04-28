@@ -47,10 +47,14 @@ Makis Solomos
 3/ Spectacular ; Stage Design ; Concerts, Events & Ceremonies, Theaters
 Auteur Collectif
 
-4/ LSI (revu papa elisa)
+4/ LSI
+
 5/ FoH Online
+
 6/ L-ISA
+
 7/ Écrans, médiations et authenticité dans le concert pop : deux cas d’étude Par Giulia Sarno
+
 8/
 9/
 10/
@@ -58,5 +62,5 @@ Auteur Collectif
 # IV/ Visual about my topic
 
 ![img](LR-UNGRADED-ARK.jpg)
-![img](imagesn.jpeg.jpg)
+![img](imagesn.jpeg)
 ![img](images.jpg)
