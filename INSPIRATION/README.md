@@ -39,7 +39,8 @@ In what ways do concert visuals add meaning or reinterpret the live music perfor
 How and why did concerts, originally focused solely on live music listening, evolve into multi-sensory, audiovisual experiences?
 
 # III/ Academic resources
-1/ Magazine Rolling Sto
+1/ Magazine Rolling Stone 
+
 2/ Du son aux espace, environnement, paysage, milieu,
 ambiance… sonores
 Makis Solomos
